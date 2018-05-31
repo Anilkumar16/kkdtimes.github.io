@@ -67,6 +67,7 @@ p.bold { font-size: 20px; font-family: 'Courier New' ;color:#FBFBF2;}
   .fa-google {
     background: #17181C;
     color: white;
+    text-align: center;  
     width: 1px;
   }
   .fa-youtube {
